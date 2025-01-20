@@ -1,0 +1,9 @@
+wget
+
+wget --help
+
+
+cd desktop
+
+ wget --mirror --convert-links --wait=2 { website link }
+
